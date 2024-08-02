@@ -1,4 +1,4 @@
-# GameMaker Stuido 2 Decompiler
+# GameMaker Studio 2 Decompiler
 This Repo is a Re-Upload of UTMT Scripts that can Decompile just about everything from a ```data.win``` file
 
 ## About Scripts
