@@ -28,6 +28,8 @@ Because this hasn't been updated in a while, it might not work out-of-the-box, s
 - The United Modders Of Pizza Tower Team, for making this Decompiler
 - deeboe, for getting these scripts for me
 
+Also the info above might be wrong, since I have no idea how these scripts work, and I'm not even supposed to have these files, but it should be accurate enough
+
 ### Old README Contents
 ```
 Decompiles GMS2 games, DO NOT LEAK
