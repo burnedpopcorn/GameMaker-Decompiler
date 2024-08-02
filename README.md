@@ -19,6 +19,10 @@ So what do specific scripts do?
 
 So yes, you need to manaully use all these scripts one after the other to decompile an entire project
 
+## What Now?
+Because this hasn't been updated in a while, it might not work out-of-the-box, so you are going to have to modify scripts and objects in order to have a decent build
+> These Scripts were last updated on Feburary 13, 2024
+
 ## Thanks to
 - QuantumV, for helping make this Decompiler
 - The United Modders Of Pizza Tower Team, for making this Decompiler
