@@ -19,6 +19,11 @@ So what do specific scripts do?
 
 So yes, you need to manaully use all these scripts one after the other to decompile an entire project
 
+## Thanks to
+- QuantumV, for helping make this Decompiler
+- The United Modders Of Pizza Tower Team, for making this Decompiler
+- deeboe, for getting these scripts for me
+
 ### Old README Contents
 ```
 Decompiles GMS2 games, DO NOT LEAK
