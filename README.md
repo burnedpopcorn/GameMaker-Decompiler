@@ -1,6 +1,8 @@
 # GameMaker Studio 2 Decompiler
 This Repo is a Re-Upload of UTMT Scripts that can Decompile just about everything from a ```data.win``` file
 
+Go to [HERE](https://github.com/UnderminersTeam/UndertaleModTool) for Undertale Mod Tool, which you need to use these scripts
+
 ## About Scripts
 So what do specific scripts do?
 > idk, but I'll try my best at this
