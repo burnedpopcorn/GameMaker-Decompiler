@@ -18,6 +18,7 @@ So what do specific scripts do?
 - ```SpriteDecompiler.csx```: This script extracts all Sprites
 - ```TileDecompiler.csx```: This script extracts all TileSets
 - ```YYPDecompiler.csx```: This script creates a project file, ```.yyp```, so you can use the decomp in GameMaker
+> I recommend using ```YYPDecompiler.csx``` last
 
 So yes, you need to manaully use all these scripts one after the other to decompile an entire project
 
