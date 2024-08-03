@@ -26,8 +26,7 @@ So yes, you need to manaully use all these scripts one after the other to decomp
 > These Scripts only seem to support Resource Version 1.0 and 1.1, not the current 2.0 versions, but you can make them work with newer versions
 
 ## What Now?
-Because this hasn't been updated in a while, it might not work out-of-the-box, so you are going to have to modify scripts and objects in order to have a decent build
-> These Scripts were last updated on Feburary 13, 2024
+Because UTMT can't read the actual code, you have to code the scripts and objects yourself, so get to work
 
 ## Thanks to
 - QuantumV, for helping make this Decompiler
