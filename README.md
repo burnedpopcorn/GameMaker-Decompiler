@@ -21,6 +21,9 @@ So what do specific scripts do?
 
 So yes, you need to manaully use all these scripts one after the other to decompile an entire project
 
+> [!IMPORTANT]
+> These Scripts only seem to support Resource Version 1.0 and 1.1, not the current 2.0 versions, but you can make them work with newer versions
+
 ## What Now?
 Because this hasn't been updated in a while, it might not work out-of-the-box, so you are going to have to modify scripts and objects in order to have a decent build
 > These Scripts were last updated on Feburary 13, 2024
