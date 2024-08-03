@@ -17,7 +17,7 @@ So what do specific scripts do?
 - ```SoundDecompiler.csx```: This script extracts all Sounds
 - ```SpriteDecompiler.csx```: This script extracts all Sprites
 - ```TileDecompiler.csx```: This script extracts all TileSets
-- ```YYPDecompiler.csx```: This script decompiles everything mentioned above, but only works with .yyp packages
+- ```YYPDecompiler.csx```: This script creates a project file, ```.yyp```, so you can use the decomp in GameMaker
 
 So yes, you need to manaully use all these scripts one after the other to decompile an entire project
 
